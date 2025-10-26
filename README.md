@@ -43,12 +43,14 @@ It covers the full data science workflow: from cleaning and feature selection to
 
 ## 📊 Results
 
-| Metric              | Score |
+<!-- | Metric              | Score |
 | ------------------- | ----- |
 | **True Negatives**  | 106   |
 | **False Positives** | 1     |
 | **False Negatives** | 5     |
-| **True Positives**  | 59    |
+| **True Positives**  | 59    | -->
+
+![Confusion Matrix](./images/confusion_matrix.png)
 
 - **Accuracy** ≈ 96.5%
 - **Precision** ≈ 98.3%
