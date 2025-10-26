@@ -43,19 +43,14 @@ It covers the full data science workflow: from cleaning and feature selection to
 
 ## 📊 Results
 
-<!-- | Metric              | Score |
-| ------------------- | ----- |
-| **True Negatives**  | 106   |
-| **False Positives** | 1     |
-| **False Negatives** | 5     |
-| **True Positives**  | 59    | -->
-
 ![Confusion Matrix](./images/confusion_matrix.png)
 
-- **Accuracy** ≈ 96.5%
-- **Precision** ≈ 98.3%
-- **Recall (Sensitivity)** ≈ 92.2%
-- **F1-Score** ≈ 95.1%
+| Metric                   | Score |
+| ------------------------ | ----- |
+| **Accuracy**             | 96.5% |
+| **Precision**            | 98.3% |
+| **Recall (Sensitivity)** | 92.2% |
+| **True Positives**       | 95.1% |
 
 The **fine-tuned Logistic Regression** model achieved the best overall performance with high precision and recall, making it reliable for medical prediction use cases where minimizing false positives is critical.
 
